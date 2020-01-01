@@ -1,1 +1,1 @@
-# myrepo
+Repo with django tutorial
